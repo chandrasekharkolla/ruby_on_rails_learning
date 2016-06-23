@@ -10,7 +10,7 @@ My Answer: D
 
 #####Which of the following extensions is appended to an image being linked if only the image name is specified?
 
-Answer: Can't do it.
+Answer: .png.
 
 
 
